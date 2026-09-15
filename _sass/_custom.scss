@@ -60,7 +60,7 @@
   width: 1.75rem;
   height: 1.75rem;
   padding: 0;
-  color: var(--cb-cta-bg, #003a55);
+  color: #457A00;
   background: transparent;
   border: 1px solid currentColor;
   border-radius: 50%;
@@ -75,12 +75,12 @@
   &:hover,
   &:focus-visible {
     color: var(--cb-cta-text, #fff);
-    background: var(--cb-cta-bg, #003a55);
+    background: #457A00;
   }
 
   &.is-playing {
     color: var(--cb-cta-text, #fff);
-    background: var(--cb-cta-bg, #003a55);
+    background: var(--cb-cta-bg, #00357A);
   }
 
   &.is-missing {
@@ -94,7 +94,7 @@
 .glossary-entry.is-targeted,
 .glossary-entry:target {
   background: var(--cb-surface-200, #f1f3f5);
-  box-shadow: -0.5rem 0 0 var(--cb-cta-bg, #003a55);
+  box-shadow: -0.5rem 0 0 var(--cb-cta-bg, #00357A);
 }
 
 @media (prefers-reduced-motion: reduce) {
