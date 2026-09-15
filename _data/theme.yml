@@ -77,7 +77,8 @@ color-theme: idaho
 # margin - Always use traditional margin asides on desktop (float right into margin)
 # flags - Always use flag/modal system on all screen sizes
 aside-display-mode: auto
-navbar-background: bg-success
+navbar-color: light
+navbar-background: bg-warning
 
 # TYPOGRAPHY & FONTS
 # ────────────────────────────────────────────────────────────────────────

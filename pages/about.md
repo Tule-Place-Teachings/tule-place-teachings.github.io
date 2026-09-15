@@ -12,11 +12,11 @@ custom-foot: essay/js/spotlight-media-handler.html
 
 You may remember the severe flooding of the Umatilla River in 2020, and the damage that it caused throughout communities in the county of the same name. These floods not only threatened roads, cattle pastures, cropland, and homes, but also a very important archaeological site in Echo, Oregon.
 
-{% include essay/feature/image-gallery.html objectid="caves009;caves010" width="50" %}
+{% include essay/feature/image-gallery.html objectid="caves009;caves010"  %}
 
 Flood remediation work in 2023 further posed risks to the site and limited future opportunities to study this significant site. To address concerns raised by the Confederated Tribes of the Umatilla Indian Reservation and the Oregon State Heritage Preservation Office, the City of Echo began working with historical archaeologists from the University of Idaho in 2024, to develop supplementary curricular material for local schools about this unique place.
 
-{% include essay/feature/image-gallery.html objectid="caves011" width="75" %}
+{% include essay/feature/image-gallery.html objectid="caves011" %}
 
 At that time, Meghan Caves was just starting her doctoral studies in historical archaeology and public history. She took on the task of reanalyzing all of the artifacts previously excavated in the 1980s and 1990s and working with local educators and historians to develop the curriculum. Her previous work at the Umatilla National Forest and investment in making history accessible to all audiences strongly influenced her investment in the place-based and hands-on approaches employed throughout this unit.
 

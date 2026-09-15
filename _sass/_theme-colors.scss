@@ -347,6 +347,20 @@ $_luminance-list: .0008 .001 .0011 .0013 .0015 .0017 .002 .0022 .0025 .0027 .003
     }
 }
 
+/* same idea as the primary override above, but for .alert-info */
+@if map.has-key($theme-colors, "info") {
+    $info: map.get($theme-colors, "info");
+    @if meta.type-of($info) == color {
+        :root {
+            --bs-info:               #{$info};
+            --bs-info-rgb:           #{color.red($info)},#{color.green($info)},#{color.blue($info)};
+            --bs-info-text-emphasis: #{shade-color($info, 60%)};
+            --bs-info-bg-subtle:     #{tint-color($info, 80%)};
+            --bs-info-border-subtle: #{tint-color($info, 50%)};
+        }
+    }
+}
+
 /* ============================================================
    Runtime CB color token → Bootstrap btn CSS variable bridge
    Overrides the compile-time values above when the CB color
