@@ -51,7 +51,7 @@ source-code: https://github.com/echoes-past/echoes-past.github.io
 # These fields control what appears on your homepage cover/title page
 #
 # title: Main title displayed prominently on the cover page (required)
-title: Echoes of the Past
+title: Tule Place Teachings
 #
 # author: Appears as "by [Author Name]" beneath the title on cover page (optional)
 # - If provided, this displays instead of the tagline
@@ -72,7 +72,7 @@ tagline: Bringing local history to life in your classroom!
 # description: Longer description for search engines and social sharing (recommended)
 # - Appears in meta tags and search results
 # - Keep around 160 characters max for best display in search results
-description: "A supplementary 4th-grade curriculum about a place known by many names — Tk̓úpa, the Utilla Indian Agency, Fort Henrietta, and Echo, Oregon."
+description: "A supplementary curriculum about a place known by many names — Tk̓úpa, the Utilla Indian Agency, Fort Henrietta, and Echo, Oregon."
 #
 # keywords: Short list of subjects separated by semicolons, for rich markup metadata
 keywords: local history; Oregon; Umatilla; CTUIR; archaeology; 4th grade curriculum
@@ -103,8 +103,8 @@ metadata: echoes-past
 #
 organization-name: "Echoes of the Past Project"
 organization-link: 
-organization-logo-banner: /assets/img/HomePage2.png
-organization-logo-nav: /assets/img/HomePage2.png
+organization-logo-banner: /assets/img/HomePage.png
+organization-logo-nav: /assets/img/HomePage.png
 
 ##########
 # ROBOTS EXCLUDE
