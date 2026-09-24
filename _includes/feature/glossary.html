@@ -14,15 +14,18 @@
     - "id" = id for the wrapper element, used to scope the lesson filter.
       Defaults to "glossary-" plus the list name (optional)
     - "filter" = give false to omit the lesson filter drop down (optional, default true)
-    - "lessons" = number of lessons represented by the lesson_1 ... lesson_n columns
-      in the CSV (optional, default 4)
+    The lesson filter options come from the "unit_intro", "lesson_1", "lesson_2",
+    and "lesson_3" columns in the CSV, labeled "Unit Intro.", "Lesson 1", etc.
+    To add or rename one, edit the lesson_cols and lesson_labels lists below
+    (same order, comma separated).
 
     Requires {% include js/glossary-js.html %} once per page to activate the
     filter and the pronunciation buttons.
 
 {%- endcomment -%}
 {%- assign gloss_id = include.id | default: 'glossary-' | append: include.list -%}
-{%- assign lesson_count = include.lessons | default: 4 | plus: 0 -%}
+{%- assign lesson_cols = "unit_intro,lesson_1,lesson_2,lesson_3" | split: ',' -%}
+{%- assign lesson_labels = "Unit Intro.,Lesson 1,Lesson 2,Lesson 3" | split: ',' -%}
 {%- assign entries = site.data.glossary | where: 'glossary_list', include.list | sort_natural: 'id' -%}
 
 <div class="glossary" id="{{ gloss_id }}" data-glossary>
@@ -33,8 +36,8 @@
             <label class="form-label mb-1" for="{{ gloss_id }}-filter">Filter <b>{{ include.title }}</b> by lesson</label>
             <select class="form-select" id="{{ gloss_id }}-filter" data-glossary-filter>
                 <option value="all" selected>All lessons</option>
-                {%- for n in (1..lesson_count) -%}
-                <option value="{{ n }}">Lesson {{ n }}</option>
+                {%- for col in lesson_cols -%}
+                <option value="{{ col }}">{{ lesson_labels[forloop.index0] }}</option>
                 {%- endfor -%}
             </select>
         </div>
@@ -47,9 +50,8 @@
     <dl class="glossary-list">
         {%- for entry in entries -%}
         {%- capture lesson_tags -%}
-        {%- for n in (1..lesson_count) -%}
-        {%- capture col -%}lesson_{{ n }}{%- endcapture -%}
-        {%- if entry[col] == '1' %}{{ n }} {% endif -%}
+        {%- for col in lesson_cols -%}
+        {%- if entry[col] == '1' %}{{ col }} {% endif -%}
         {%- endfor -%}
         {%- endcapture -%}
         <div class="glossary-entry" id="{{ entry.id }}" data-glossary-entry data-lessons="{{ lesson_tags | strip }}">

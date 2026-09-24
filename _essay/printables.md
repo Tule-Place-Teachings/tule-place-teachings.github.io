@@ -27,6 +27,6 @@ The scaffolded booklet includes more structure. It is best suited for students w
 
 ## Foldables
 
-Printable foldable activity sheets used in the Lesson 5 review and summative assessment.
+Printable foldable activity sheets used in the unit review and Summative Assessment.
 
 {% include feature/button.html text="Foldables (PDF)" link="/items/caves166.html" color="outline-secondary" %}

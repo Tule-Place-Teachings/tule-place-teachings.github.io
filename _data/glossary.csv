@@ -1,4 +1,4 @@
-id,word,definition,identifier,lesson_1,lesson_2,lesson_3,lesson_4,audio,glossary_list
+id,word,definition,identifier,unit_intro,lesson_1,lesson_2,lesson_3,audio,glossary_list
 atayma,atáyma,"barter, sell",Sahaptian-018,1,1,1,0,/objects/audio/Sahaptian-018.mp3,umatilla
 ataymatawas,ataymat̓áwas,"store, village, town, city, trading post",Sahaptian-127,0,1,1,1,/objects/audio/Sahaptian-127.mp3,umatilla
 axsaxs,áx̣šax̣š,"dentalium or tusk shell, scientific name: *Dentalium pretiosum*",Sahaptian-155,0,1,0,0,/objects/audio/Sahaptian-155.mp3,umatilla

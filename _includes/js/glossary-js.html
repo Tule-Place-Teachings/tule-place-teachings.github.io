@@ -72,7 +72,7 @@
       if (count) {
         count.textContent = lesson === "all"
           ? "Showing all " + shown + " words."
-          : "Showing " + shown + (shown === 1 ? " word" : " words") + " for Lesson " + lesson + ".";
+          : "Showing " + shown + (shown === 1 ? " word" : " words") + " for " + select.options[select.selectedIndex].text.replace(/\.$/, "") + ".";
       }
       if (empty) empty.classList.toggle("d-none", shown !== 0);
     }
