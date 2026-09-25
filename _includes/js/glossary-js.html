@@ -53,6 +53,18 @@
   });
 
   /* ---- lesson filter ------------------------------------------------------ */
+  /* A "?lesson=" URL parameter pre-selects that lesson on one glossary and
+     scrolls to it, so lesson plans can link straight to their word list, e.g.
+     /glossary.html?lesson=lesson_1. "&list=english" targets the English list
+     instead of the default Umatilla list. Accepts the filter values
+     (unit_intro, lesson_1...) plus short forms like "intro" or "1". */
+  var params = new URLSearchParams(window.location.search);
+  var urlLesson = (params.get("lesson") || "").toLowerCase().replace(/[\s-]+/g, "_");
+  if (urlLesson === "intro" || urlLesson === "unit") urlLesson = "unit_intro";
+  else if (/^(lesson_?)?\d+$/.test(urlLesson)) urlLesson = "lesson_" + urlLesson.replace(/\D/g, "");
+  var urlList = "glossary-" + (params.get("list") || "umatilla").toLowerCase();
+  var urlTarget = null;
+
   document.querySelectorAll("[data-glossary]").forEach(function (glossary) {
     var select = glossary.querySelector("[data-glossary-filter]");
     if (!select) return;
@@ -77,9 +89,22 @@
       if (empty) empty.classList.toggle("d-none", shown !== 0);
     }
 
+    if (urlLesson && glossary.id === urlList &&
+        select.querySelector('option[value="' + urlLesson + '"]')) {
+      select.value = urlLesson;
+      urlTarget = glossary;
+    }
+
     select.addEventListener("change", apply);
     apply();
   });
+
+  if (urlTarget) {
+    var jump = function () { urlTarget.scrollIntoView({ block: "start" }); };
+    jump();
+    // images and media above the list can shift it while loading
+    window.addEventListener("load", jump);
+  }
 
   /* ---- cross-references --------------------------------------------------- */
   /* A link to a word hidden by the current filter would jump nowhere, so reset

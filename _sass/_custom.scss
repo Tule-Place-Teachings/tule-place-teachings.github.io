@@ -9,6 +9,10 @@
    on /glossary.html
    --------------------------------------------------------------------------- */
 
+.glossary {
+  scroll-margin-top: 1rem; // breathing room when jumped to via ?lesson=
+}
+
 .glossary-controls {
   position: sticky;
   top: 0;
