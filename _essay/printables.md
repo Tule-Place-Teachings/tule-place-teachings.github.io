@@ -32,10 +32,10 @@ The scaffolded booklet includes more structure. It is best suited for students w
 
 Six (6) decks of these cards are included in the Teaching Trunk for use in the Unit Introduction and as part of the Summative Assessment. If you require additional sets of cards you can create more using this printer-friendly file.
 
-{% include feature/button.html text="Download Timeline Cards (PDF)" link="/items/caves166.html" color="outline-secondary" %}
+{% include feature/button.html text="Download Timeline Cards (PDF)" link="/items/caves167.html" color="primary" %}
 
 ## Primary Source Sheets
 
 A laminated set of these instruction sheets (items A through N) is included in the Teaching Trunk for use in Lesson 2. A PDF of the sheets is included here for your reference and in case pages are lost or damaged.
 
-{% include feature/button.html text="Download Timeline Cards (PDF)" link="/items/caves166.html" color="outline-secondary" %}
+{% include feature/button.html text="Download Primary Soure Sheets (PDF)" link="/items/caves168.html" color="primary" %}
