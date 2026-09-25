@@ -38,4 +38,4 @@ Six (6) decks of these cards are included in the Teaching Trunk for use in the U
 
 A laminated set of these instruction sheets (items A through N) is included in the Teaching Trunk for use in Lesson 2. A PDF of the sheets is included here for your reference and in case pages are lost or damaged.
 
-{% include feature/button.html text="Download Timeline Cards (PDF)" link="/items/caves168.html" color="primary" %}
+{% include feature/button.html text="Download Primary Soure Sheets (PDF)" link="/items/caves168.html" color="primary" %}
