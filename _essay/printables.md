@@ -23,7 +23,7 @@ The standard booklet is open-ended and is best suited for students who have high
 
 The scaffolded booklet includes more structure. It is best suited for students who may not be reading or speaking at grade level yet or who would benefit from additional guidance for more complex activity instructions. Recommended for students reading at or below grade 4. This version of the booklet has a **river** graphic in the lower right corner of the cover — the river's current provides guidance.
 
-{% include feature/button.html text="Download the scaffolded booklet (PDF)" link=""/items/caves157.html"" color="primary" %}
+{% include feature/button.html text="Download the scaffolded booklet (PDF)" link="/items/caves157.html" color="primary" %}
 
 
 
