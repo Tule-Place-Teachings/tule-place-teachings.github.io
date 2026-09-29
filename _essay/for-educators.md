@@ -39,7 +39,7 @@ Throughout this unit, students will…
 
 - Teaching Manual
 - Trunk Inventory Sheet
-- Box containing 6 decks of [Timeline Cards](/objects/caves167)
+- Box containing 6 decks of [Timeline Cards](/objects/caves167) <br>
   These provide a contextual overview of events that are specific to the archaeological site as well as events related to the larger context of North America - see [Unit Introduction](/objects/caves169) and [Summative Assessment](/objects/caves173)
 - 3D printed replicas (primarily plastic) of artifacts excavated from the archaeological site - see [Lesson 1](/objects/caves170)
     - awl
