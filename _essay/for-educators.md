@@ -33,8 +33,40 @@ Throughout this unit, students will…
 - … investigate how larger trends in state and national history directly connect to their local communities.
 - … internalize essential understandings regarding Indigenous Peoples in Oregon, particularly the Walla Walla, Cayuse, and Umatilla peoples.
 
-## What comes in the kit?
+## What comes in the teaching trunk?
 
-{% include feature/alert.html text="**Coming soon.** Write out the item inventory and include photographs of the finalized kit contents (once they are actually finalized)" color="info" %}
+{% include essay/feature/image-gallery.html objectid="caves174"  %}
 
-
+- Teaching Manual
+- Trunk Inventory Sheet
+- Box containing 6 decks of [Timeline Cards](/objects/caves167)
+  these provide a contextual overview of events that are specific to the archaeological site as well as events related to the larger context of North America (see Unit Introduction)
+- 3D printed replicas (primarily plastic) of artifacts excavated from the archaeological site (see Lesson 1)
+    - awl
+    - projectile points
+    - bone gaming pieces
+    - glass bottle fragment
+    - small rifle hammer
+    - equestrian spur
+- Modern reproductions of items found at or related to the site (see Lessons 1 and 2)
+    - tule mat
+    - freshwater mussel shells
+    - glass trade beads
+    - dentalium shell beads
+    - ox cue/shoe
+    - fabrics with bone and ceramic buttons
+    - variety of cut nails
+    - foodstuffs discussed in primary sources (coffee, flour, sugar)
+    - white clay T.D. pipe
+    - ceramic ink well
+- Excerpts of textual and verbal primary sources (see Lesson 2)
+    - Story shared by a Tribal Elder
+    - Overland migrant diaries
+    - Letter from an Indian Agent
+    - Newspaper report
+    - Sahaptian language sentence
+- Samples of relevant plants (see Lesson 2)
+    - tules
+    - dogbane/Indian hemp
+    - black cottonwood
+    - lodgepole pine
