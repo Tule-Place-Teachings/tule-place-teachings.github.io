@@ -40,15 +40,15 @@ Throughout this unit, students will…
 - Teaching Manual
 - Trunk Inventory Sheet
 - Box containing 6 decks of [Timeline Cards](/objects/caves167)
-  these provide a contextual overview of events that are specific to the archaeological site as well as events related to the larger context of North America (see Unit Introduction)
-- 3D printed replicas (primarily plastic) of artifacts excavated from the archaeological site (see Lesson 1)
+  these provide a contextual overview of events that are specific to the archaeological site as well as events related to the larger context of North America - see [Unit Introduction](/objects/caves169) and [Summative Assessment](/objects/caves173)
+- 3D printed replicas (primarily plastic) of artifacts excavated from the archaeological site - see [Lesson 1](/objects/caves170)
     - awl
     - projectile points
     - bone gaming pieces
     - glass bottle fragment
     - small rifle hammer
     - equestrian spur
-- Modern reproductions of items found at or related to the site (see Lessons 1 and 2)
+- Modern reproductions of items found at or related to the site - see [Lesson 1](/objects/caves170) and [Lesson 2](/objects/caves171)
     - tule mat
     - freshwater mussel shells
     - glass trade beads
@@ -59,13 +59,13 @@ Throughout this unit, students will…
     - foodstuffs discussed in primary sources (coffee, flour, sugar)
     - white clay T.D. pipe
     - ceramic ink well
-- Excerpts of textual and verbal primary sources (see Lesson 2)
+- Excerpts of textual and verbal primary sources - see [Lesson 2](/objects/caves171)
     - Story shared by a Tribal Elder
     - Overland migrant diaries
     - Letter from an Indian Agent
     - Newspaper report
     - Sahaptian language sentence
-- Samples of relevant plants (see Lesson 2)
+- Samples of relevant plants - see [Lesson 2](/objects/caves171)
     - tules
     - dogbane/Indian hemp
     - black cottonwood
