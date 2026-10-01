@@ -15,7 +15,7 @@ There are two versions of the Reflection Booklet to help make the lesson content
 
 The standard booklet is open-ended and is best suited for students who have high language fluency and retain relatively complex instructions well. Recommended for students reading at or above grade 4. This version of the booklet has a **rock** graphic in the lower right corner of the cover — a solid and grounded foundation of knowledge.
 
-{% include feature/button.html text="Download the standard booklet (PDF)" link="/items/caves158.html" color="primary" %}
+{% include feature/button.html text="Download the standard booklet (PDF)" link="/objects/ReflectionBooklet-Rock.pdf" color="primary" %}
 
 ## Scaffolded Reflection Booklet
 
@@ -23,7 +23,7 @@ The standard booklet is open-ended and is best suited for students who have high
 
 The scaffolded booklet includes more structure. It is best suited for students who may not be reading or speaking at grade level yet or who would benefit from additional guidance for more complex activity instructions. Recommended for students reading at or below grade 4. This version of the booklet has a **river** graphic in the lower right corner of the cover — the river's current provides guidance.
 
-{% include feature/button.html text="Download the scaffolded booklet (PDF)" link="/items/caves157.html" color="primary" %}
+{% include feature/button.html text="Download the scaffolded booklet (PDF)" link="/objects/ReflectionBooklet-River.pdf" color="primary" %}
 
 
 
