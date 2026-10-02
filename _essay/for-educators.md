@@ -39,16 +39,16 @@ Throughout this unit, students will…
 
 - Teaching Manual
 - Trunk Inventory Sheet
-- Box containing 6 decks of [Timeline Cards](/objects/caves167) <br>
-  These cards provide a contextual overview of 25 events that are both specific to the archaeological site as well as related to the larger setting of North America - see [Unit Introduction](/objects/caves169) and [Summative Assessment](/objects/caves173)
-- 3D printed replicas (primarily plastic) of artifacts excavated from the archaeological site - see [Lesson 1](/objects/caves170)
+- Box containing 6 decks of [Timeline Cards](/objects/timeline-cards.pdf) <br>
+  These cards provide a contextual overview of 25 events that are both specific to the archaeological site as well as related to the larger setting of North America - see [Unit Introduction](/objects/Unit-Intro.pdf) and [Summative Assessment](/objects/Sum-Assess.pdf)
+- 3D printed replicas (primarily plastic) of artifacts excavated from the archaeological site - see [Lesson 1](/objects/Lesson1.pdf)
     - awl
     - projectile points
     - bone gaming pieces
     - glass bottle fragment
     - small rifle hammer
     - equestrian spur
-- Modern reproductions of items found at or related to the site - see [Lesson 1](/objects/caves170) and [Lesson 2](/objects/caves171)
+- Modern reproductions of items found at or related to the site - see [Lesson 1](/objects/Lesson1.pdf) and [Lesson 2](/objects/Lesson2.pdf)
     - tule mat
     - freshwater mussel shells
     - glass trade beads
@@ -59,13 +59,13 @@ Throughout this unit, students will…
     - foodstuffs discussed in primary sources (coffee, flour, sugar)
     - white clay T.D. pipe
     - ceramic ink well
-- Excerpts of textual and verbal primary sources - see [Lesson 2](/objects/caves171)
+- Excerpts of textual and verbal primary sources - see [Lesson 2](/objects/Lesson2.pdf)
     - Story shared by a Tribal Elder
     - Overland migrant diaries
     - Letter from an Indian Agent
     - Newspaper report
     - Sahaptian language sentence
-- Samples of relevant plants - see [Lesson 2](/objects/caves171)
+- Samples of relevant plants - see [Lesson 2](/objects/Lesson2.pdf)
     - tules
     - dogbane/Indian hemp
     - black cottonwood
