@@ -33,6 +33,12 @@ by Peggy Janicki, illustrated by Carrielynn Victor
 [*I Can Make this Promise*](https://catalog.sage.eou.edu/eg/opac/record/2076387)
 by Christine Day
 
+[*Native Americans of the Northwest Plateau*](https://catalog.sage.eou.edu/eg/opac/record/463394)
+by Kelly L. Barth
+
+[*Meeting Natives with Lewis and Clark*](https://catalog.sage.eou.edu/eg/opac/record/1013964)
+by Barbara Fifer
+
 [*Roxanne Dunbar-Ortiz's Indigenous Peoples' History of the United States: A Graphic Interpretation*](https://catalog.sage.eou.edu/eg/opac/record/2657120)
 illustrated by Paul Peart-Smith, edited by Paul Buhle with Dylan Davis
 
