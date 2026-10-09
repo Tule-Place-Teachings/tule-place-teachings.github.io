@@ -13,7 +13,7 @@ If you are interested in archaeology and historical preservation in general, che
 
 If you want to see more primary sources about the history of Oregon, you should check out [The Oregon TimeWeb](https://oregontimeweb.org/) from the [Oregon Historical Society](https://www.ohs.org)!
 
-## Here are some books you can check out from your local library
+## Here are some books you can check out from your local library...
 
 [*Buffalo Wild!*](https://catalog.sage.eou.edu/eg/opac/record/2325699)
 by Deidra Havrelock, illustrated by Azby Whitecalf
