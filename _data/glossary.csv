@@ -1,7 +1,7 @@
 id,word,definition,identifier,unit_intro,lesson_1,lesson_2,lesson_3,audio,glossary_list
 atayma,atáyma,"barter, sell",Sahaptian-018,1,1,1,0,/objects/audio/Sahaptian-018.mp3,umatilla
 ataymatawas,ataymat̓áwas,"store, village, town, city, trading post",Sahaptian-127,0,1,1,1,/objects/audio/Sahaptian-127.mp3,umatilla
-axsaxs,áx̣šax̣š,"dentalium or tusk shell, Latin name: *Dentalium pretiosum*",Sahaptian-155,0,1,0,0,/objects/audio/Sahaptian-155.mp3,umatilla
+axsaxs,áx̣šax̣š,"dentalium or tusk shell, Latin name: *Dentalium pretiosum*",Sahaptian-166,0,1,0,0,/objects/audio/Sahaptian-166.mp3,umatilla
 calamat,čalámat,"pipe, ceremonial pipe",Sahaptian-130,0,1,1,0,/objects/audio/Sahaptian-130.mp3,umatilla
 cuus,čúuš,water; all [káˀuyit](#kauyit) meals begin and end with a drink of this,Sahaptian-042,1,1,0,1,/objects/audio/Sahaptian-042.mp3,umatilla
 iciskiin,ičiškíin,"""in this language..."" or ""in the Indian language..."" can also directly translate as ""Sahaptian""",Sahaptian-068,0,0,0,0,/objects/audio/Sahaptian-068.mp3,umatilla
@@ -68,7 +68,7 @@ tanins,tanínš,arrowhead,Sahaptian-038,0,1,1,0,/objects/audio/Sahaptian-038.mp3
 tawya,táwya,"dwell, stay, or live",Sahaptian-146,0,1,0,1,/objects/audio/Sahaptian-146.mp3,umatilla
 tawyanaykt,táwyanaykt,"village, camp, dwelling; also [tawyanikáwas](#tawyanikawas)",Sahaptian-083,0,1,1,0,/objects/audio/Sahaptian-083.mp3,umatilla
 tawyanikawas,tawyanikáwas,"village, camp, dwelling; also [táwyanaykt](#tawyanaykt)",Sahaptian-084,0,1,1,0,/objects/audio/Sahaptian-084.mp3,umatilla
-taxwis,taxʷɨs,"common dogbane plant, also called indian hemp, Latin name: *Apocynum cannabinum*",Sahaptian-115,0,0,1,0,/objects/audio/Sahaptian-115.mp3,umatilla
+taxwis,taxʷɨs,"common dogbane plant, also called indian hemp, Latin name: *Apocynum cannabinum*",Sahaptian-155,0,0,1,0,/objects/audio/Sahaptian-155.mp3,umatilla
 tiicam,tiičám,"earth, ground, property, place",Sahaptian-123,1,0,0,1,/objects/audio/Sahaptian-123.mp3,umatilla
 timani-tiicam,tímani tiičám,"Indian reservation, place reserved for indigenous descendants by the ancestors who negotiated the treaty with the United States Government",Sahaptian-054,0,0,1,1,/objects/audio/Sahaptian-054.mp3,umatilla
 tiwi,tíwi,fight,Sahaptian-142,0,0,0,0,/objects/audio/Sahaptian-142.mp3,umatilla
